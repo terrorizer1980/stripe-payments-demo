@@ -20,10 +20,10 @@
     "start": "node server/node/server.js"
   },
   "dependencies": {
-    "body-parser": "^1.17.1",
+    "body-parser": "^1.19.2",
     "dotenv": "^4.0.0",
     "ejs": "^2.5.7",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "stripe": "^6.28.0"
   },
   "devDependencies": {
